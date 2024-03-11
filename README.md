@@ -2,7 +2,7 @@
 
 <font size='5'>**Synergistic global-local contrastive learning for multifaceted association prediction in miRNA-gene-disease networks**</font>
 
-Submitted to BIB2024.
+This is the offical implementation of GloLoCon.
 
 ## Installation
 
