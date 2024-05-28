@@ -1,8 +1,8 @@
-# GloLoCon
+# GlaHGCL
 
-<font size='5'>**Synergistic global-local contrastive learning for multifaceted association prediction in miRNA-gene-disease networks**</font>
+<font size='5'>**Global-local aware heterogeneous graph contrastive learning for multifaceted association prediction in miRNA-gene-disease networks**</font>
 
-This is the offical implementation of GloLoCon.
+This is the offical implementation of GlaHGCL.
 
 ## Installation
 
