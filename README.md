@@ -11,8 +11,8 @@ This is the offical implementation of GlaHGCL.
 Git clone our repository, creating a python environment and activate it via the following command
 
 ```bash
-git clone https://github.com/Sue-syx/GloLoCon.git
-cd GloLoCon
+git clone https://github.com/Sue-syx/GlaHGCL.git
+cd GlaHGCL
 conda create -n env_name
 source activate env_name   
 pip install -r requirements.txt
