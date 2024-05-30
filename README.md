@@ -18,6 +18,12 @@ source activate env_name
 pip install -r requirements.txt
 ```
 
+## Run
+
+Run [Main.py](Main.py) to train GlaHGCL.
+
 ## Results
 
-The experimental results in our paper can be viewed in [plot_metrics.ipynb](plot_metrics.ipynb). If you need the results of baselines (*.npy), please contact me via email: @syx_sue@zju.edu.cn.
+The experimental results in our paper can be viewed in [plot_metrics.ipynb](plot_metrics.ipynb). 
+The results of GlaHGCL and other baseline methods can be obtained in [results](results/). 
+If you have any problem, please contact me via email: @syx_sue@zju.edu.cn.
