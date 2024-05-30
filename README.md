@@ -24,6 +24,6 @@ Run [Main.py](Main.py) to train GlaHGCL.
 
 ## Results
 
-The experimental results in our paper can be viewed in [plot_metrics.ipynb](plot_metrics.ipynb). 
-The results of GlaHGCL and other baseline methods can be obtained in [results](results/). 
+The experimental results in our paper can be viewed in [plot_metrics.ipynb](plot_metrics.ipynb). \
+The results of GlaHGCL and other baseline methods can be obtained in [results](results/).  \
 If you have any problem, please contact me via email: @syx_sue@zju.edu.cn.
