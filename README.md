@@ -18,7 +18,7 @@ source activate env_name
 pip install -r requirements.txt
 ```
 
-## Run
+## Training
 
 Run [Main.py](Main.py) to train GlaHGCL.
 
